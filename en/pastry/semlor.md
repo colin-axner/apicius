@@ -1,6 +1,7 @@
 # Semlor #
 
 ## Ingredients ##
+```
 Dough:
 
 1/3 cup butter
@@ -15,6 +16,8 @@ little bit of salt
 
 Filling:
 20-25g Marzipan
+Whole Milk
+```
 
 ### Steps ###
 #### Semlor Bun ####
