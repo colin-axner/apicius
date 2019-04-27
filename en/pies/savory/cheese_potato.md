@@ -3,7 +3,7 @@
 ## Ingredients ##
 
 ```
-450g/ 1 lb/ 2 1/2 cups potatoes, peeled and sliced
+450g | 1 lb | 2 1/2 cups potatoes, peeled and sliced
 1 clove of garlic, crushed
 1 1/4 cups double (heavy) cream
 2 tbsp thyme leaves

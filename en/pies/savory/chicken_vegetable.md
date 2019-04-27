@@ -4,7 +4,7 @@
 
 ```
 2 tbsp butter
-200g / 7 oz/ 1 1/3 cups chicken breast, cubed
+200g | 7 oz | 1 1/3 cups chicken breast, cubed
 1 onion [optional]
 1 leek, chopped
 1 celery stick, chopped
