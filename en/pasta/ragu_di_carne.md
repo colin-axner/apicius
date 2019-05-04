@@ -1,6 +1,7 @@
 # Ragù di carne (Meat sauce) #
 
 ## Ingredients ##
+```
 2 spoons extra-virgin olive oil (or more :D)
 1 medium onion, finely chopped (about 1 1/2 cups)
 1 celery stalk, finely chopped (about 1 cup)
@@ -12,6 +13,7 @@
 500g tomato puree
 salt
 pepper
+```
 
 ## Steps ##
 1. Place onion, celery, and carrot into a saucepan with olive oil.
