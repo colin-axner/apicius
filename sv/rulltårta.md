@@ -27,8 +27,10 @@ Fyllning:
 8. Lossa försiktigt på papperet.
 9. Pensla det med kallt vatten om det sitter fast.
 
-Med bär eller sylt:
-10. Bred mosade, lätt sockrade bär eller sylt på den nygräddade kakan och rull ihop till en rulle.
+*Med bär eller sylt*
 
-Med lemon curd:
-    När man breder på lemon curd måste kakan vara kall. Rulla ihop till en rulle.
+Bred mosade, lätt sockrade bär eller sylt på den nygräddade kakan och rull ihop till en rulle.
+
+*Med lemon curd*
+
+När man breder på lemon curd måste kakan vara kall. Rulla ihop till en rulle.
