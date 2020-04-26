@@ -1,4 +1,4 @@
-## Stegte Kartofler á la prinsesse ##
+# Stegte Kartofler á la prinsesse #
 
 ## Ingredienser ##
 ```
