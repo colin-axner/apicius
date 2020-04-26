@@ -2,7 +2,7 @@
 
 ## Ingredienser ##
 ```
-Till I Rulle, 14-20 skivor):
+Till I Rulle (14-20 skivor):
 3 stora ägg
 1 1/2 dl strösocker
 2 dl vetemjöl (120g)
@@ -28,7 +28,9 @@ Fyllning:
 9. Pensla det med kallt vatten om det sitter fast.
 
 Med bär eller sylt
+
 10. Bred mosade, lätt sockrade bär eller sylt på den nygräddade kakan och rull ihop till en rulle.
 
 Med lemon curd
+
 10. När man breder på lemon curd måste kakan vara kall. Rulla ihop till en rulle.
