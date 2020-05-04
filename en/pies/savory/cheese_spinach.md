@@ -12,7 +12,7 @@
 1/2 tsp pepper
 ```
 
-## Steps ##
+### Steps ###
 1. Dredge cheese with flour.
 2. Distribute half the cheese evenly in pie dish.
 3. Scatter spinach over cheese.
