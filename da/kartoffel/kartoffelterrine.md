@@ -1,5 +1,7 @@
 # Kartoffelterrine #
 
+Passer godt til gravad fisk.
+
 ## Ingredienser ##
 ```
 12-15 kartofler
