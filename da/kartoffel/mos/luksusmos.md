@@ -19,3 +19,7 @@ friskkværnet hvid peber
 4. Pres citronen og rør saften i mosen. 
 5. Hak skalotteløg og persille fint.
 6. Rør det i mosen og smag til med friskkværnet peber.
+
+#### Noter ####
+- don't skimp on the shallots
+- don't overdue to the lemon
