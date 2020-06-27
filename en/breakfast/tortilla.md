@@ -2,11 +2,11 @@
 
 ## Ingredients ##
 ```
-- 1 ¼ pounds potatoes, 3 or 4 medium
-- 1 medium onion
-- 1 cup olive oil
-- Salt and freshly ground black pepper
-- 6 extra-large or jumbo eggs
+1 ¼ pounds potatoes, 3 or 4 medium
+1 medium onion
+1 cup olive oil
+Salt and freshly ground black pepper
+6 extra-large or jumbo eggs
 ```
 
 ### Directions ###
@@ -23,7 +23,7 @@
 11. Add another tablespoon oil to skillet, and use the spatula to coax tortilla back in. 
 12. Cook 5 minutes, then slide from skillet onto a clean plate. Serve warm (not hot), or at room temperature. Do not refrigerate.
 
-#### Notes ####
+### Notes ###
 - When pouring the egg + potato mixture, make sure to pour a layer of the egg part first so a solid bottom is formed before pouring the rest
 - Ingredient quantity completely depends on the pan you’re using, you want it coming up maybe 2/3 of the height of the pan when it’s all poured
 - Sautee some spinach and add it to the egg, potato, onion mixture for a healthy addition
