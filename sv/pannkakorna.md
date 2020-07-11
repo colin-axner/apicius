@@ -29,4 +29,5 @@ för en person:
 2. Tillsätt lite mjölk och mjöl.
 3. Tillsätt halv av mjölk men alla av mjöl.
 4. Bland bra.
-5. Stek på medelhög med smältsmör för varje pannkaka.
+5. Tillsätt resten av mjölk, socker, och smör.
+6. Stek på medelhög med smältsmör för varje pannkaka.
