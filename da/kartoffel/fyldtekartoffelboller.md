@@ -18,7 +18,7 @@ syltede tyttebær eller asier/rødbeder
 ### Tillberedning ###
 1. Skær flæsdket i terninger og brun dem på panden.
 2. Kom det finthakkede løg ved og steg, indtil løget blødt.
-3. Kom og pil kartoflerne. 
+3. Kog og pil kartoflerne. 
 4. Pres eller mos kartoflerne.
 5. Tilsæt mel og æg. Smag til med salt.
 6. Arbejd dejen godt igennem på et melet bord.

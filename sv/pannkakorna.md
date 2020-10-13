@@ -24,7 +24,7 @@ för en person:
 3 matsked smältsmör
 ``` 
 
-## Instriktioner ##
+## Instruktioner ##
 1. Piska ägg i en skål.
 2. Tillsätt lite mjölk och mjöl.
 3. Tillsätt halv av mjölk men alla av mjöl.
